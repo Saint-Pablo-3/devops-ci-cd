@@ -80,6 +80,7 @@ pipeline {
 
 
 `При необходимости прикрепитe сюда скриншоты`
+![jenkins pipeline](screenshots/2-1.png)
 ![jenkins pipeline](screenshots/2-2.png)
 
 
